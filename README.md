@@ -16,21 +16,21 @@ This is a React application designed to assist with the memorization of the Qura
 
 ### iOS (iPhone/iPad)
 
-1. Open Safari and navigate to [Quran Memorizer](https://jahedev.github.io/quran-memorizer/).
+1. Open Safari and navigate to [Quran Memorizer](https://jahedev.github.io/tajweed-mushaf/).
 2. Tap the "Share" button at the bottom of the screen.
 3. Select "Add to Home Screen."
 4. Tap "Add" in the top right corner.
 
 ### Android
 
-1. Open Chrome and navigate to [Quran Memorizer](https://jahedev.github.io/quran-memorizer/).
+1. Open Chrome and navigate to [Quran Memorizer](https://jahedev.github.io/tajweed-mushaf/).
 2. Tap the three-dot menu in the top right corner.
 3. Select "Add to Home screen."
 4. Tap "Add."
 
 ## Live Website
 
-The live website is accessible at: [Quran Memorizer](https://jahedev.github.io/quran-memorizer/).
+The live website is accessible at: [Quran Memorizer](https://jahedev.github.io/tajweed-mushaf/).
 
 ## Next Goals
 
